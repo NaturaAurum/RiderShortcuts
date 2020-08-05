@@ -16,12 +16,12 @@
 # 편의기능
 |기능|사용법|
 |---|---|
-|[var 만들기](#.var)| .var + tab|
-|[foreach 만들기](#.foreach)| .foreach + tab|
-|[for 만들기](#.for)|.for + tab|
-|[switch 만들기](#.switch)|.switch + tab
-|[if 만들기](#.if)|.if + tab|
-|[await 만들기](#.await)| .await + tab|
+|[var 만들기](#var)| .var + tab|
+|[foreach 만들기](#foreach)| .foreach + tab|
+|[for 만들기](#for)|.for + tab|
+|[switch 만들기](#switch)|.switch + tab
+|[if 만들기](#if)|.if + tab|
+|[await 만들기](#await)| .await + tab|
 
 </div>
 
