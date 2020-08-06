@@ -1,4 +1,6 @@
 <div align=center>
+  
+# [공식 Shortcut](https://www.jetbrains.com/help/rider/Reference_Keymap_VS.html?keymap=_default#tool_windows)
 
 # 단축키
 
