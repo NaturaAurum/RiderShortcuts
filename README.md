@@ -21,9 +21,12 @@
 |[var 만들기](#var)| .var + tab|
 |[foreach 만들기](#foreach)| .foreach + tab|
 |[for 만들기](#for)|.for + tab|
+|[역순 for 만들기](#forr)|.forr + tab|
 |[switch 만들기](#switch)|.switch + tab
 |[if 만들기](#if)|.if + tab|
 |[await 만들기](#await)| .await + tab|
+|[enum 비교 자동완성](#enum)| variable.enumtype + tab|
+|.not| TODO |
 
 </div>
 
@@ -75,11 +78,17 @@
 ![](./gifs/foreach.gif)
 ## .for
 ![](./gifs/for.gif)
+## .forr
+![](./gifs/forr.gif)
 ## .switch
 ![](./gifs/switch.gif)
 ## .if
 ![](./gifs/if.gif)
 ## .await
 ![](./gifs/await.gif)
+## .enum
+![](./gifs/enum_var.gif)
+
+## .not (TODO)
 
 </div>
